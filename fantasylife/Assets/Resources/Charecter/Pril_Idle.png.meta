@@ -80,7 +80,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -90,8 +90,13 @@ TextureImporter:
   - serializedVersion: 2
     buildTarget: Standalone
     maxTextureSize: 2048
+<<<<<<< HEAD:fantasylife/Assets/Charecter/Pril_Idle.png.meta
     resizeAlgorithm: 1
     textureFormat: 2
+=======
+    resizeAlgorithm: 0
+    textureFormat: 4
+>>>>>>> e1217712cd53d81136dd4e02a75f1076c2a84c02:fantasylife/Assets/Resources/Charecter/Pril_Idle.png.meta
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
